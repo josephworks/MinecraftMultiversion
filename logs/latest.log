@@ -1,0 +1,45 @@
+[00:57:59] [Craft Scheduler Thread - 243/INFO]: [Vault] Checking for Updates ... 
+[00:57:59] [Craft Scheduler Thread - 243/INFO]: [Vault] No new version available
+[03:53:18] [LoginProcessingThread/INFO]: UUID of player JTGWAELOD is f8eb28dc-cd79-4061-bd86-9d4a702240db
+[03:53:18] [Server thread/INFO]: JTGWAELOD[/109.149.77.113:52732] logged in with entity id 8889 at ([world]-48.03007975743106, 95.0, 162.14687523967575)
+[03:53:50] [Server thread/INFO]: JTGWAELOD issued server command: /spawn
+[03:55:17] [Server thread/WARN]: JTGWAELOD moved too quickly! -18.478205422409246,-1.7508129212553172,-0.3044869108593957
+[03:55:24] [Server thread/INFO]: JTGWAELOD lost connection: Disconnected
+[03:55:24] [Server thread/INFO]: JTGWAELOD left the game
+[07:33:26] [Craft Scheduler Thread - 367/INFO]: [Vault] Checking for Updates ... 
+[07:33:26] [Craft Scheduler Thread - 367/INFO]: [Vault] No new version available
+[08:34:05] [LoginProcessingThread/INFO]: UUID of player robloxobeygamer is eb2285a9-8a71-4ec6-916f-227da53b2166
+[08:34:05] [Server thread/INFO]: robloxobeygamer[/86.163.248.82:49893] logged in with entity id 9072 at ([world]73.00942957129607, 76.0, 232.74706959109042)
+[08:34:16] [Server thread/INFO]: robloxobeygamer issued server command: /
+[08:34:18] [Server thread/INFO]: robloxobeygamer issued server command: /pl
+[08:35:44] [Server thread/INFO]: robloxobeygamer lost connection: Disconnected
+[08:35:44] [Server thread/INFO]: robloxobeygamer left the game
+[10:46:44] [LoginProcessingThread/INFO]: UUID of player diamondconsole is 7f409af8-d874-4dd1-9de1-1329f7cffe1d
+[10:46:44] [Server thread/INFO]: diamondconsole[/192.168.0.34:58182] logged in with entity id 9132 at ([world]66.5, 68.0, 191.5)
+[10:47:00] [Server thread/WARN]: diamondconsole moved too quickly! -14.091249022642018,2.519999921321869,-2.2144865842685704
+[10:47:03] [Server thread/WARN]: diamondconsole moved too quickly! -1.5808724957343543,-10.854658122346834,-0.38343815227571554
+[10:47:22] [Server thread/INFO]: diamondconsole lost connection: Disconnected
+[10:47:22] [Server thread/INFO]: diamondconsole left the game
+[10:47:50] [LoginProcessingThread/INFO]: UUID of player emeraldtnt is 84e46830-e044-4837-988b-18285ab01b8c
+[10:47:50] [Server thread/INFO]: emeraldtnt[/127.0.0.1:44820] logged in with entity id 9598 at ([world]76.39400007686369, 84.14105571867957, 185.91270307084062)
+[10:47:54] [Server thread/INFO]: emeraldtnt issued server command: /plots
+[10:48:03] [Server thread/INFO]: emeraldtnt lost connection: Disconnected
+[10:48:03] [Server thread/INFO]: emeraldtnt left the game
+[10:48:50] [Server thread/INFO]: Stopping the server
+[10:48:50] [Server thread/INFO]: Stopping server
+[10:48:50] [Server thread/INFO]: [iControlU] Disabling iControlU vv1.9.8
+[10:48:50] [Server thread/INFO]: [LibsDisguises] Disabling LibsDisguises v9.1.2
+[10:48:50] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.2.1
+[10:48:50] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v1.1.1
+[10:48:50] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[10:48:50] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.5;4651611
+[10:48:50] [Server thread/INFO]: [ProtocolSupport] Disabling ProtocolSupport v4.25
+[10:48:50] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[10:48:50] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v17.07.10-f20a100-746-13.7.2
+[10:48:50] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.1.3
+[10:48:50] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[10:48:50] [Server thread/INFO]: Saving players
+[10:48:50] [Server thread/INFO]: Saving worlds
+[10:48:50] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[10:48:52] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[10:48:52] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End

@@ -1,0 +1,59 @@
+<xml type="locale" lang="en-US">
+  <text original="Setting">Setting</text>
+  <text original="Value">Value</text>
+  <text original="&amp;Edit">&amp;Edit</text>
+  <text original="&amp;Add">&amp;Add</text>
+  <text original="Name">Name</text>
+  <text original="Uuid">Uuid</text>
+  <text original="&amp;Remove">&amp;Remove</text>
+  <text original="Level">Level</text>
+  <text original="Refresh">Refresh</text>
+  <text original="Created">Created</text>
+  <text original="Source">Source</text>
+  <text original="Expires">Expires</text>
+  <text original="Ip">Ip</text>
+  <text original="Installed plugins">Installed plugins</text>
+  <text original="Available plugins">Available plugins</text>
+  <text original="Settings">Settings</text>
+  <text original="Server">Server</text>
+  <text original="...">...</text>
+  <text original="Launch Server">Launch Server</text>
+  <text original="Optional flags:">Optional flags:</text>
+  <text original="Optional arguments:">Optional arguments:</text>
+  <text original="Maximum Ram [Mb] :">Maximum Ram [Mb] :</text>
+  <text original="Minimum Ram [Mb] :">Minimum Ram [Mb] :</text>
+  <text original="Jar file:">Jar file:</text>
+  <text original="Java version:">Java version:</text>
+  <text original="Server type:">Server type:</text>
+  <text original="Maintainance">Maintainance</text>
+  <text original="Site:">Site:</text>
+  <text original="Version:">Version:</text>
+  <text original="Get current build">Get current build</text>
+  <text original="#0000 (MC 1.0.0)">#0000 (MC 1.0.0)</text>
+  <text original="Latest beta build:">Latest beta build:</text>
+  <text original="Latest development build:">Latest development build:</text>
+  <text original="Latest recommended build:">Latest recommended build:</text>
+  <text original="Auto update branch:&#xD;&#xA;">Auto update branch:
+</text>
+  <text original="Auto update behaviour:">Auto update behaviour:</text>
+  <text original="Download Latest Development build">Download Latest Development build</text>
+  <text original="Download Latest Beta build">Download Latest Beta build</text>
+  <text original="Download Latest Recommended build">Download Latest Recommended build</text>
+  <text original="Server specific settings">Server specific settings</text>
+  <text original="Remote Server">Remote Server</text>
+  <text original="port:">port:</text>
+  <text original="password:">password:</text>
+  <text original="username:">username:</text>
+  <text original="host:">host:</text>
+  <text original="salt:">salt:</text>
+  <text original="Starting...">Starting...</text>
+  <text original="Server running">Server running</text>
+  <text original="Stop">Stop</text>
+  <text original="The server could not be started, because the port is already in use. Make sure there are no other servers running on this port.&#xD;&#xA;An incorrectly stopped server could cause this. Make sure you have your server-ip= blank (in server.properties).&#xD;&#xA;Otherwise rebooting or logging out will resolve this issue. ">The server could not be started, because the port is already in use. Make sure there are no other servers running on this port.
+An incorrectly stopped server could cause this. Make sure you have your server-ip= blank (in server.properties).
+Otherwise rebooting or logging out will resolve this issue. </text>
+  <text original="Cannot bind to port">Cannot bind to port</text>
+  <text original="Stopped">Stopped</text>
+  <text original="Start">Start</text>
+  <text original="Server stopped">Server stopped</text>
+</xml>

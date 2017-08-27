@@ -1,0 +1,13 @@
+groups:
+  default:
+    options:
+      default: true
+    permissions:
+    - modifyworld.*
+schema-version: 1
+users:
+  84e46830-e044-4837-988b-18285ab01b8c:
+    permissions:
+    - '*'
+    options:
+      name: emeraldtnt
