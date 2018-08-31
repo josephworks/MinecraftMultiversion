@@ -1,6 +1,2 @@
 # MinecraftMultiversion
 A multiple version minecraft 1.12.2 - 1.8
-
-You an get latest builds on our CI: http://174.17.163.136:8080/job/Minecraft%20Multiversion/
-
-[![Build Status](http://174.17.163.136:8080/job/Minecraft%20Multiversion/11/badge/icon)](http://174.17.163.136:8080/job/Minecraft%20Multiversion/11/)
