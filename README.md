@@ -1,5 +1,5 @@
 # MinecraftMultiversion
-A multiple version minecraft 1.12.2 - 1.8
+A minecraft server that runs 1.13.2 / 1.12.2 that supports minecraft 1.12.2 - 1.4.7
 
 # Download
 
