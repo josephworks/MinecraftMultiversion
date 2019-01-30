@@ -2,7 +2,7 @@
 A Minecraft server that runs 1.13.2 / 1.12.2 that supports Minecraft 1.13.2 - 1.4.7
 
 # Download
-You can download server files from our [Joseph](http://josephworks.ddns.net:8080/job/MinecraftMultiversion/) server!
+You can download server files from our [Jenkins](http://josephworks.ddns.net:8080/job/MinecraftMultiversion/) server!
 
 # Manual Build
 
