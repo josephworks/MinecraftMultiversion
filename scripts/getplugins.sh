@@ -2,7 +2,7 @@
 cd env
 
 # enter ./1.12.2/plugins
-cd 1.12.2/plugins
+cd 1.12.2 && mkdir plugins && cd plugins
 
 # Get plugins for 1.12.2
 
@@ -14,6 +14,9 @@ wget https://build.true-games.org/job/ProtocolSupport/lastSuccessfulBuild/artifa
 
 # Go back to env
 cd .. && cd ..
+
+# enter ./1.13.2/plugins
+cd 1.13.2 && mkdir plugins && cd plugins
 
 # Get plugins for 1.13.2
 
