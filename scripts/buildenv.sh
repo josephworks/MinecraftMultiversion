@@ -1,5 +1,6 @@
 # Make env folder and enter env folder
-mkdir env && cd env
+mkdir env
+cd env
 
 # Make 1.12.2 and 1.13.2 server folders
 mkdir 1.12.2
